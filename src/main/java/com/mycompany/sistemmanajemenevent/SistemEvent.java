@@ -162,4 +162,3 @@ public class SistemEvent {
             System.out.println("[LAPORAN ERROR] Gagal menulis laporan.txt: " + e.getMessage());
         }
     }
-}
